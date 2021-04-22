@@ -9,3 +9,9 @@ Other github projects for resources -
 Tutorial for deploying a project
     
       https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Deployment
+      
+      
+Links from David:
+        
+        https://devcenter.heroku.com/articles/django-app-configuration
+        https://devcenter.heroku.com/articles/django-assets
