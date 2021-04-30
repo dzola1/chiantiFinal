@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://www.chiantipizzeriamenu.com/">
-    <img src="images/Screen Shot 2021-04-29 at 10.27.35 PM.png" alt="Logo" width="80" height="80">
+    <img src="images/Screen Shot 2021-04-29 at 10.27.35 PM.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
